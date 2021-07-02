@@ -1,0 +1,11 @@
+#!/bin/sh
+sudo mkdir /usr/lib/bascula
+sudo cp bascula/bascula /usr/lib/bascula
+sudo cp bascula/camion.png /usr/lib/bascula
+sudo cp bascula/CPV3.3.2.jar /usr/lib/bascula
+sudo cp bascula/conf.ini /home/pi
+sudo cp bascula/applog.txt /home/pi
+sudo cp accesos/alacarte-made-1.desktop /home/pi/.local/share/applications
+sudo cp accesos/alacarte-made.desktop /home/pi/.local/share/applications
+sudo cp accesos/bascula.desktop /home/pi/Desktop
+

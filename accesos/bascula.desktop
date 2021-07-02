@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Link
+Name=bascula
+Icon=/usr/lib/bascula/camion.png
+URL=/home/pi/.local/share/applications/alacarte-made-1.desktop
+Name[es_MX]=bascula.desktop

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=
+Terminal=true
+Name=bascula
+Exec=/usr/lib/bascula/bascula
+Type=Application
+Icon=gnome-panel-launcher
